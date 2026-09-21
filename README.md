@@ -12,4 +12,5 @@ All these things somewhere cover the fundamentals of UI which helps in developin
 Building this project was a lot of fun.
 
 ### Author
-AMAY RAJ SRIVASTAV [swifty-amay](https://github.com/swifty-amay)
+**AMAY RAJ SRIVASTAV**
+Follow me at ~ [swifty-amay](https://github.com/swifty-amay)
